@@ -1,0 +1,35 @@
+/* nav */
+.primary-color{
+    background-color: #102C57 !important;
+}
+.secondary-color{
+    background-color: #1679AB;
+}
+.primary-sub-color{
+    background-color: #FFB1B1;
+}
+.secondary-sub-color{
+    background-color: #FFCBCB;
+}
+/*body */
+body{
+    background-color: #FFCBCB;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    position: relative;
+}
+/* footer */
+footer{
+    border-top: 3px;
+    border-top-style: solid;
+    border-top-color: gray;
+    color: gray;
+    bottom: 0;
+    width: 95%;
+    text-align: center;
+    line-height: 60px;
+}
+footer p{
+    margin-top: 10px;
+}
